@@ -1,0 +1,13 @@
+D:\HelloNet\ConsoleApp22_0810\bin\Debug\netcoreapp3.1\ConsoleApp22_0810.exe
+D:\HelloNet\ConsoleApp22_0810\bin\Debug\netcoreapp3.1\ConsoleApp22_0810.deps.json
+D:\HelloNet\ConsoleApp22_0810\bin\Debug\netcoreapp3.1\ConsoleApp22_0810.runtimeconfig.json
+D:\HelloNet\ConsoleApp22_0810\bin\Debug\netcoreapp3.1\ConsoleApp22_0810.runtimeconfig.dev.json
+D:\HelloNet\ConsoleApp22_0810\bin\Debug\netcoreapp3.1\ConsoleApp22_0810.dll
+D:\HelloNet\ConsoleApp22_0810\bin\Debug\netcoreapp3.1\ConsoleApp22_0810.pdb
+D:\HelloNet\ConsoleApp22_0810\obj\Debug\netcoreapp3.1\ConsoleApp22_0810.csproj.AssemblyReference.cache
+D:\HelloNet\ConsoleApp22_0810\obj\Debug\netcoreapp3.1\ConsoleApp22_0810.AssemblyInfoInputs.cache
+D:\HelloNet\ConsoleApp22_0810\obj\Debug\netcoreapp3.1\ConsoleApp22_0810.AssemblyInfo.cs
+D:\HelloNet\ConsoleApp22_0810\obj\Debug\netcoreapp3.1\ConsoleApp22_0810.csproj.CoreCompileInputs.cache
+D:\HelloNet\ConsoleApp22_0810\obj\Debug\netcoreapp3.1\ConsoleApp22_0810.dll
+D:\HelloNet\ConsoleApp22_0810\obj\Debug\netcoreapp3.1\ConsoleApp22_0810.pdb
+D:\HelloNet\ConsoleApp22_0810\obj\Debug\netcoreapp3.1\ConsoleApp22_0810.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\HelloNet\ConsoleApp22_0810_2\obj\Debug\netcoreapp3.1\ConsoleApp22_0810_2.AssemblyInfoInputs.cache
+D:\HelloNet\ConsoleApp22_0810_2\obj\Debug\netcoreapp3.1\ConsoleApp22_0810_2.AssemblyInfo.cs
+D:\HelloNet\ConsoleApp22_0810_2\obj\Debug\netcoreapp3.1\ConsoleApp22_0810_2.csproj.CoreCompileInputs.cache
+D:\HelloNet\ConsoleApp22_0810_2\bin\Debug\netcoreapp3.1\ConsoleApp22_0810_2.exe
+D:\HelloNet\ConsoleApp22_0810_2\bin\Debug\netcoreapp3.1\ConsoleApp22_0810_2.deps.json
+D:\HelloNet\ConsoleApp22_0810_2\bin\Debug\netcoreapp3.1\ConsoleApp22_0810_2.runtimeconfig.json
+D:\HelloNet\ConsoleApp22_0810_2\bin\Debug\netcoreapp3.1\ConsoleApp22_0810_2.runtimeconfig.dev.json
+D:\HelloNet\ConsoleApp22_0810_2\bin\Debug\netcoreapp3.1\ConsoleApp22_0810_2.dll
+D:\HelloNet\ConsoleApp22_0810_2\bin\Debug\netcoreapp3.1\ConsoleApp22_0810_2.pdb
+D:\HelloNet\ConsoleApp22_0810_2\obj\Debug\netcoreapp3.1\ConsoleApp22_0810_2.dll
+D:\HelloNet\ConsoleApp22_0810_2\obj\Debug\netcoreapp3.1\ConsoleApp22_0810_2.pdb
+D:\HelloNet\ConsoleApp22_0810_2\obj\Debug\netcoreapp3.1\ConsoleApp22_0810_2.genruntimeconfig.cache
